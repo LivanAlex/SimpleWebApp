@@ -23,7 +23,6 @@
 
   <build>
     <finalName>ROOT</finalName>
-
     <plugins>
       <plugin>
         <groupId>com.heroku.sdk</groupId>
